@@ -2,7 +2,8 @@
 
 This project was created for the **Codebasics Air Quality Challenge** and uses real-world AQI, health, and behavioral data to design a region-specific, data-driven product and go-to-market strategy for an air purifier brand.
 
-## LIVE [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMGUyMDAxMDktMjJhYS00Y2UzLWEyYWUtYTEwOTllODk0ODlhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzNjMTJjZWQtM2JkMy00MWQ1LWIxMWQtNzE4YzQxNGY4OTU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ 
 ## [Presentation Video](https://youtu.be/VAOe65sY3-A)
 
 <img width="1520" height="858" alt="Image" src="https://github.com/user-attachments/assets/57052bae-abe6-428f-9fa4-95ecd2f9503c" />
